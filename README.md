@@ -1,6 +1,8 @@
 # ISCA_modeling
 ISCA (Inductive Subgroup Comparison Approach) Modeling Use ISCA_modeling (ISCA) With (In) R Software
 
+https://www.youtube.com/watch?v=6wSbzuz4txM
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
